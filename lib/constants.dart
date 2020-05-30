@@ -20,3 +20,24 @@ const kBottomTextStyle=TextStyle(
   fontSize: 30.0,
   fontWeight: FontWeight.w900,
 );
+
+const kTitleTextStyle=TextStyle(
+  fontSize: 30.0,
+  fontWeight: FontWeight.w900,
+);
+
+const kResultTextStyle=TextStyle(
+  fontSize: 20.0,
+  color: Colors.green,
+  fontWeight: FontWeight.bold,
+);
+
+const kBmiTextStyle=TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kBodyTextStyle=TextStyle(
+  fontSize: 20.0,
+  fontWeight: FontWeight.w900,
+);
